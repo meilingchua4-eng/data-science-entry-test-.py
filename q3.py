@@ -9,7 +9,7 @@ dct = list [name]
 key = list [value]
 new_age = list [age]
 
-# Call function
+# Define function
 def update_dictionary[“dct”, “key”, “value”]
 
 # Call dictionary
