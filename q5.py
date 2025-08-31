@@ -1,22 +1,22 @@
 # define variables
 
-x = bool [5]
-num = int[20]
-divsor = int[20]
-remainder = float [20]
+x = bool(5)
+num = int(20)
+divsor = int(20)
+remainder = float(20)
 
-#define function check_divisibility (num , divisor) 
+# Define check_divisibility(num, divisor) 
 
-check_divisibility (num , divisor)  
-	print(“num” + “divisor + “remainder”)
+check_divisibility(num, divisor)  
+	print(“num” + “divisor" + “remainder”)
 
-#Call Function check_divisibility (num , divisor)  
+# Call check_divisibility(num, divisor) 
+	print("x")
 
-check_divisibility (num,divisor)	
-
+check_divisibility(num, divisor)	
 	if remainder == 0 :
-		print(bool(“x” = “True”))
+		print(“x” = “True”)
 	else if remainder <= 0 :
-		print(bool(“x” = “False”))
+		print(“x” = “False”)
 	return
 
