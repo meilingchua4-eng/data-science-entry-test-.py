@@ -1,7 +1,7 @@
 # Define variables
-x = str[15]
-y = str[100]
-z = int[4]
+x = str(15)
+y = str(100)
+z = int(4)
 
 # Define class Car
 class Car:
