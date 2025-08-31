@@ -1,15 +1,15 @@
 # Define variables
-i = int[15]
-x = int[10]
-y = int[10]
+i = int(15)
+x = int(10)
+y = int(10)
 
-x = list [1 , 1 , 2 , 1 , 2 , 1]
-y = list [1 , 2 , 1 , 1]
-lst1 = list [x]
-lst2 = list [y]
-lst = [“x” , ”y”]
+x = list(1 , 1 , 2 , 1 , 2 , 1)
+y = list(1 , 2 , 1 , 1)
+lst1 = list(x)
+lst2 = list(y)
+lst = [“x”, ”y”]
 
-# Define function to find_first_negative(lst)
+# Define function find_first_negative(lst)
 def find_first_negative(lst) :
 	print(“The first negative number is” + “x” + “y”)
 
