@@ -1,3 +1,9 @@
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import datetime as dt
+
+
 # Define variables
 x = list(“lime” , “apple” , ”orange” , ” banana” , “mango, “, “cherry”)
 mynumber1 = list(1 , 2 , 3, 4, 2, 2)
