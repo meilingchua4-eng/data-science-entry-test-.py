@@ -1,3 +1,8 @@
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import datetime as dt
+
 # Define variables
 name = float(“Alice” , “Tom” , ”Bobby” , ”Irene” , “Charlene“, “Royston”)
 value = float(3)
