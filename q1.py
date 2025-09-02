@@ -1,4 +1,9 @@
-                                        # Define variables
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import datetime as dt
+
+# Define variables
 x = int(20)                             # x is the first numeric number
 y = int(20)                             # y is the second numeric number
 z = str(2)                 
